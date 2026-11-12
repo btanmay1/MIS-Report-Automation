@@ -1,0 +1,15 @@
+[
+  "October 2026: 3 of 8 targeted KPIs met target.",
+  "Avg decision TAT (hours) missed target at 41.1 (target 24.0; prior month 34.3).",
+  "Decisions within 48h SLA missed target at 67.8% (target 90.0%; prior month 77.1%).",
+  "30+ DPD rate missed target at 4.20% (target 4.00%; prior month 4.03%).",
+  "Disputes per 10k transactions missed target at 60.02 (target 52.00; prior month 48.74).",
+  "Disputes resolved within 30 days missed target at 60.8% (target 85.0%; prior month 79.9%).",
+  "Duplicate-charge share of disputes up 131% month on month to 42.5% (adverse).",
+  "Disputes opened up 26% month on month to 1,031 (adverse).",
+  "Total spend (Rs. cr) up 22% month on month to 30.90 (favourable).",
+  "Spend per active account (Rs.) up 19% month on month to 25,179 (favourable).",
+  "Credit utilisation up 16% month on month to 15.6%.",
+  "New applications up 14% month on month to 3,373 (favourable).",
+  "Dispute increase is driven by 'Duplicate charge' (151 -> 438 cases); recommend root-cause review with the merchant acquiring team."
+]
